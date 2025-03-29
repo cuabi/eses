@@ -1,17 +1,17 @@
-[02:36:47] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[02:36:47] [INIT] Loaded plugins:
-[02:36:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[02:36:47] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[02:36:47] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[02:36:47] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[02:36:47] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[02:36:47] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[02:36:47] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[02:36:47] [INIT] - com.almostreliable.morejs.Plugin
-[02:36:47] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[02:36:47] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[02:36:49] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[02:36:49] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[02:36:49] [INFO] Loaded 1/1 KubeJS server scripts in 0.023 s with 0 errors and 0 warnings
-[02:36:49] [INFO] Scripts loaded
-[02:37:52] [INFO] Server resource reload complete!
+[01:38:37] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[01:38:37] [INIT] Loaded plugins:
+[01:38:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[01:38:37] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[01:38:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[01:38:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[01:38:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:38:37] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[01:38:37] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[01:38:37] [INIT] - com.almostreliable.morejs.Plugin
+[01:38:37] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[01:38:37] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[01:38:40] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[01:38:40] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[01:38:40] [INFO] Loaded 1/1 KubeJS server scripts in 0.026 s with 0 errors and 0 warnings
+[01:38:40] [INFO] Scripts loaded
+[01:39:51] [INFO] Server resource reload complete!

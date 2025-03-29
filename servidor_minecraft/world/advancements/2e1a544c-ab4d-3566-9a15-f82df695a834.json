@@ -30231,6 +30231,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-26 02:50:33 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/lantern_of_paranoia": {
     "criteria": {
       "has_molten_core": "2025-03-26 02:50:37 +0000"
@@ -30255,18 +30261,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2025-03-26 02:50:33 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_dust_from_ore_crushing": {
-    "criteria": {
-      "has_item": "2025-03-26 02:53:30 +0000"
-    },
-    "done": true
-  },
   "reliquary:recipes/misc/uncrafting/blaze_rod": {
     "criteria": {
       "has_molten_core": "2025-03-26 02:50:37 +0000"
@@ -30276,18 +30270,6 @@
   "reliquary:recipes/misc/destruction_catalyst": {
     "criteria": {
       "has_molten_core": "2025-03-26 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/vibranium_dust_from_raw": {
-    "criteria": {
-      "has_raw_vibranium": "2025-03-26 02:53:31 +0000"
-    },
-    "done": true
-  },
-  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
-    "criteria": {
-      "has_item": "2025-03-26 02:53:31 +0000"
     },
     "done": true
   },
@@ -30303,6 +30285,18 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-03-26 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2025-03-26 02:53:30 +0000"
+    },
+    "done": true
+  },
   "allthemodium:recipes/misc/vibranium_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-03-26 02:53:30 +0000"
@@ -30315,9 +30309,15 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/interdiction_torch": {
+  "occultism:recipes/crushing/crushing/vibranium_dust_from_raw": {
     "criteria": {
-      "has_molten_core": "2025-03-26 02:50:37 +0000"
+      "has_raw_vibranium": "2025-03-26 02:53:31 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_item": "2025-03-26 02:53:31 +0000"
     },
     "done": true
   },
