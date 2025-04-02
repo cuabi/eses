@@ -22434,6 +22434,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-04-02 03:37:13 +0000"
+    },
+    "done": true
+  },
   "allthearcanistgear:recipes/vibranium_leggings_smithing": {
     "criteria": {
       "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
@@ -22557,6 +22563,12 @@
   "allthemodium:recipes/misc/unobtainium_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-04-02 03:42:29 +0000"
     },
     "done": true
   },
