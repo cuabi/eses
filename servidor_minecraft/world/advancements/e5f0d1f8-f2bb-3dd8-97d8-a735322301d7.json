@@ -22134,6 +22134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 03:55:58 +0000"
+    },
+    "done": true
+  },
   "allthemodium:recipes/misc/vibranium_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-04-02 03:18:47 +0000"
@@ -22149,6 +22155,12 @@
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-04-02 03:55:58 +0000"
     },
     "done": true
   },
@@ -22173,6 +22185,12 @@
   "allthemodium:recipes/misc/vibranium_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-04-02 03:55:58 +0000"
     },
     "done": true
   },
@@ -22293,6 +22311,12 @@
   "allthemodium:recipes/misc/ancient_smooth_stone_from_ancient_stone_blasting": {
     "criteria": {
       "has_item": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 03:55:58 +0000"
     },
     "done": true
   },
@@ -22470,6 +22494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 03:55:58 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/unobtainium_dust_from_ingot": {
     "criteria": {
       "has_unobtainium_ingot": "2025-04-02 03:18:48 +0000"
@@ -22557,6 +22587,12 @@
   "allthemodium:recipes/misc/unobtainium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-04-02 03:55:58 +0000"
     },
     "done": true
   },

@@ -5823,3 +5823,16 @@ Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException
 [02Apr2025 03:48:02.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
 [02Apr2025 03:48:02.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
 [02Apr2025 03:49:24.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> es mi armaduta
+[02Apr2025 03:49:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> es tyrian steel cubierto de netherite y unas boludeces mas
+[02Apr2025 03:50:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> me da mas suerte y otras cosas
+[02Apr2025 03:54:09.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman has completed the challenge [Bit Fruity]
+[02Apr2025 03:56:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Creative Energy Cube] to cianoman]
+[02Apr2025 03:56:55.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Creative Energy Cube] to cianoman]
+[02Apr2025 03:57:28.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Dirt] to cianoman]
+[02Apr2025 03:57:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Dirt] to cianoman]
+[02Apr2025 03:57:28.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Dirt] to cianoman]
+[02Apr2025 03:57:28.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cianoman: Gave 1 [Dirt] to cianoman]
+[02Apr2025 03:58:44.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman lost connection: Disconnected
+[02Apr2025 03:58:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman left the game
+[02Apr2025 03:59:22.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of biesexo) moved wrongly! 0.4443560358340619
+[02Apr2025 03:59:23.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: biesexo moved wrongly!

@@ -3633,7 +3633,8 @@
       "golden_apple": "2025-03-09 05:39:50 +0000",
       "rotten_flesh": "2025-03-09 07:08:03 +0000",
       "cooked_chicken": "2025-03-20 04:43:20 +0000",
-      "mushroom_stew": "2025-03-16 02:43:30 +0000"
+      "mushroom_stew": "2025-03-16 02:43:30 +0000",
+      "quark:ancient_fruit": "2025-04-02 03:54:09 +0000"
     },
     "done": false
   },
@@ -31172,9 +31173,141 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/umbran_furnitures": {
+    "criteria": {
+      "has_wood": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_roofs": {
+    "criteria": {
+      "has_planks": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "quark:ancient_apple_overlevel": {
+    "criteria": {
+      "ancient_apple_overlevel": "2025-04-02 03:54:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:39 +0000"
+    },
+    "done": true
+  },
   "create:spout": {
     "criteria": {
       "0": "2025-04-02 03:40:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 03:51:38 +0000"
     },
     "done": true
   },
