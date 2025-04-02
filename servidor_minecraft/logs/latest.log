@@ -4673,3 +4673,46 @@ java.lang.RuntimeException: Unknown registry key in gtceu:ore_vein: minecraft:fl
 [02Apr2025 03:01:24.657] [Server thread/INFO] [Jade/]: Syncing config to cianoman (2e1a544c-ab4d-3566-9a15-f82df695a834)
 [02Apr2025 03:03:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> tas?
 [02Apr2025 03:03:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> saca la lluvia de mierda
+[02Apr2025 03:08:38.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cianoman lost connection: Disconnected
+[02Apr2025 03:08:38.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman left the game
+[02Apr2025 03:08:38.233] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 03:10:16.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2838, y=101, z=-534} BlockPos{x=-2838, y=99, z=-534}
+[02Apr2025 03:10:35.920] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@517c7803[id=<null>,name=cianoman,properties={},legacy=false] (/127.35.24.44:49173) lost connection: Disconnected
+[02Apr2025 03:10:57.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cianoman[/127.35.24.44:42403] logged in with entity id 4871 at (-22675.621043093626, 68.0, -4337.716125933955)
+[02Apr2025 03:10:57.967] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to cianoman
+[02Apr2025 03:10:57.967] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to cianoman
+[02Apr2025 03:10:57.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to cianoman
+[02Apr2025 03:10:57.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to cianoman
+[02Apr2025 03:10:57.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to cianoman
+[02Apr2025 03:10:57.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to cianoman
+[02Apr2025 03:10:57.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to cianoman
+[02Apr2025 03:10:58.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cianoman joined the game
+[02Apr2025 03:10:58.636] [Server thread/INFO] [Jade/]: Syncing config to cianoman (2e1a544c-ab4d-3566-9a15-f82df695a834)
+[02Apr2025 03:11:23.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Apr2025 03:12:53.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> dale dale dale gorda trola
+[02Apr2025 03:12:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> chupame las bolas
+[02Apr2025 03:13:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> vc?
+[02Apr2025 03:13:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> che
+[02Apr2025 03:13:16.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> mira
+[02Apr2025 03:13:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> a la mierda
+[02Apr2025 03:14:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> amigo te dejo a 10 de vida
+[02Apr2025 03:14:15.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> y estabas full
+[02Apr2025 03:14:22.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> vc
+[02Apr2025 03:14:28.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> tenes espacio?
+[02Apr2025 03:14:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <biesexo> si
+[02Apr2025 03:14:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> bueno toma
+[02Apr2025 03:15:11.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> mira atras
+[02Apr2025 03:15:23.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> todo luteado
+[02Apr2025 03:15:27.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ya hice mi espada
+[02Apr2025 03:15:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> fijate que tessi
+[02Apr2025 03:15:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> alla hay
+[02Apr2025 03:15:57.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> lleve 2 stacks
+[02Apr2025 03:16:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ¡
+[02Apr2025 03:16:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ?
+[02Apr2025 03:16:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> yo no te pegue
+[02Apr2025 03:16:25.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> si te pego te mato
+[02Apr2025 03:16:52.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> a mira las misiones
+[02Apr2025 03:16:54.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> xd
+[02Apr2025 03:18:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> otros que encontre
+[02Apr2025 03:18:50.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> ya completamos el 1
+[02Apr2025 03:18:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cianoman> se
