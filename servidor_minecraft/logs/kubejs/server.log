@@ -1,119 +1,119 @@
-[04:21:02] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[04:21:02] [INIT] Loaded plugins:
-[04:21:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[04:21:02] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[04:21:02] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[04:21:02] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[04:21:02] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[04:21:02] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[04:21:02] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[04:21:02] [INIT] - com.almostreliable.morejs.Plugin
-[04:21:02] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[04:21:02] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.005 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.004 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.004 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.003 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.003 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.003 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.003 s
-[04:21:04] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.002 s
-[04:21:04] [INFO] mods/gtceu/apiary_recipes.js#5: Loaded Java class 'dev.latvian.mods.kubejs.util.Tags'
-[04:21:04] [INFO] mods/gtceu/apiary_recipes.js#6: Loaded Java class 'dev.latvian.mods.kubejs.fluid.FluidStackJS'
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/apiary_recipes.js in 0.013 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/chemlib/craftRemove.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:conflicts.js in 0.004 s
-[04:21:04] [INFO] Loaded script server_scripts:xpFluids.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:ore_removal.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:miningDim.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:ore_processing.js in 0.006 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/endermanoverhaul/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/endermanoverhaul/tags.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/ftbquests/customTask.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/quark/Chests.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/allthemodium/allthemodium.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_aluminum.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_silver.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_lead.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_tin.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_platinum.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_uranium.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/create.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_nickel.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/create/crushed_osmium.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/cataclysm/cataclysm.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/draconic_evo/draconic_evo.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.0 s
-[04:21:04] [INFO] mods/farmingforblockheads/market.js#62: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[04:21:04] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/refined/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/entangled/recipes.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/everythingcopper/disable_shield.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/bloodmagic/bmreinforced.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/bloodmagic/meteors.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/IndustrialForegoingSouls/blacklist.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/IndustrialForegoingSouls/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/deepresonance/deepresonance.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/ars_nouveau/ars_nouveau.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/mekanism/mekanismServer.js in 0.003 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.003 s
-[04:21:04] [INFO] mods/mysticalagriculture/crops.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
-[04:21:04] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.009 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/mysticalagriculture/cropRemove.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/ore_processing_plant_recipes.js in 0.022 s
-[04:21:04] [INFO] mods/gtceu/mining_dim_ores.js#4: Loaded Java class 'com.gregtechceu.gtceu.api.data.worldgen.generator.veins.VeinedVeinGenerator'
-[04:21:04] [INFO] mods/gtceu/mining_dim_ores.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.worldgen.generator.veins.DikeVeinGenerator'
-[04:21:04] [INFO] mods/gtceu/mining_dim_ores.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.data.worldgen.generator.veins.CuboidVeinGenerator'
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/mining_dim_ores.js in 0.01 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/miner.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/mega_fusion_recipes.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/allthemodium.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/neural_node_recipes.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/starforge_recipes.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/micro_universe_orb_recipes.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/gtceu.js in 0.004 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/gtceu/greenhouse_recipes.js in 0.003 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/immersiveengineering/immersiveengineering.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/minecolonies/mineship.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/rftools/builder.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/mob_grinding_utils/recipes.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/corail_tombstone/Nuke_Eggs.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/er2/extremereactors2.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/computercraft/turtles.js in 0.001 s
-[04:21:04] [INFO] mods/chemlib/blocks.js#4: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
-[04:21:04] [INFO] Loaded script server_scripts:mods/chemlib/blocks.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:mods/sushigocrafting/sushigocrafting.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/att_items.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/atm_star.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/music_discs.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/atm_alloys.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.002 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.0 s
-[04:21:04] [INFO] Loaded script server_scripts:modpack/mini_portals.js in 0.001 s
-[04:21:04] [INFO] Loaded script server_scripts:tags.js in 0.002 s
-[04:21:04] [INFO] Loaded 91/91 KubeJS server scripts in 0.189 s with 0 errors and 0 warnings
-[04:21:04] [INFO] Scripts loaded
-[04:21:04] [INFO] Initializing recipe event...
-[04:21:12] [INFO] [minecraft:entity_type] Found 242 tags, added 60 objects, removed 0 objects
-[04:21:13] [INFO] [minecraft:block] Found 2817 tags, added 827 objects, removed 1 objects
-[04:21:13] [INFO] [minecraft:fluid] Found 559 tags, added 2 objects, removed 4 objects
-[04:21:14] [INFO] [minecraft:item] Found 8479 tags, added 205 objects, removed 7 objects
-[04:21:14] [INFO] [minecraft:worldgen/biome] Found 862 tags, added 8 objects, removed 0 objects
+[04:29:30] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[04:29:30] [INIT] Loaded plugins:
+[04:29:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[04:29:30] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[04:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[04:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[04:29:30] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[04:29:30] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[04:29:30] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[04:29:30] [INIT] - com.almostreliable.morejs.Plugin
+[04:29:30] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[04:29:30] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.001 s
+[04:29:32] [INFO] mods/gtceu/apiary_recipes.js#5: Loaded Java class 'dev.latvian.mods.kubejs.util.Tags'
+[04:29:32] [INFO] mods/gtceu/apiary_recipes.js#6: Loaded Java class 'dev.latvian.mods.kubejs.fluid.FluidStackJS'
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/apiary_recipes.js in 0.009 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/chemlib/craftRemove.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:conflicts.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:xpFluids.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:ore_removal.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:miningDim.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:ore_processing.js in 0.004 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/endermanoverhaul/recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/endermanoverhaul/tags.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/ftbquests/customTask.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/quark/Chests.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/allthemodium/allthemodium.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_aluminum.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_silver.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_lead.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_tin.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_platinum.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_uranium.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/create.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_nickel.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/create/crushed_osmium.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/cataclysm/cataclysm.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/draconic_evo/draconic_evo.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.0 s
+[04:29:32] [INFO] mods/farmingforblockheads/market.js#62: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[04:29:32] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/refined/recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/entangled/recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/everythingcopper/disable_shield.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/bloodmagic/bmreinforced.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/bloodmagic/meteors.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/IndustrialForegoingSouls/blacklist.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/IndustrialForegoingSouls/recipes.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/deepresonance/deepresonance.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/ars_nouveau/ars_nouveau.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/mekanism/mekanismServer.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.002 s
+[04:29:32] [INFO] mods/mysticalagriculture/crops.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[04:29:32] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/mysticalagriculture/cropRemove.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/ore_processing_plant_recipes.js in 0.016 s
+[04:29:32] [INFO] mods/gtceu/mining_dim_ores.js#4: Loaded Java class 'com.gregtechceu.gtceu.api.data.worldgen.generator.veins.VeinedVeinGenerator'
+[04:29:32] [INFO] mods/gtceu/mining_dim_ores.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.worldgen.generator.veins.DikeVeinGenerator'
+[04:29:32] [INFO] mods/gtceu/mining_dim_ores.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.data.worldgen.generator.veins.CuboidVeinGenerator'
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/mining_dim_ores.js in 0.006 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/miner.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/mega_fusion_recipes.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/allthemodium.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/neural_node_recipes.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/starforge_recipes.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/micro_universe_orb_recipes.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/gtceu.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/gtceu/greenhouse_recipes.js in 0.003 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/immersiveengineering/immersiveengineering.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/minecolonies/mineship.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/rftools/builder.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/mob_grinding_utils/recipes.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/corail_tombstone/Nuke_Eggs.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/er2/extremereactors2.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/computercraft/turtles.js in 0.0 s
+[04:29:32] [INFO] mods/chemlib/blocks.js#4: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
+[04:29:32] [INFO] Loaded script server_scripts:mods/chemlib/blocks.js in 0.002 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:mods/sushigocrafting/sushigocrafting.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/att_items.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/atm_star.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/music_discs.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/atm_alloys.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.001 s
+[04:29:32] [INFO] Loaded script server_scripts:modpack/mini_portals.js in 0.0 s
+[04:29:32] [INFO] Loaded script server_scripts:tags.js in 0.002 s
+[04:29:32] [INFO] Loaded 91/91 KubeJS server scripts in 0.137 s with 0 errors and 0 warnings
+[04:29:32] [INFO] Scripts loaded
+[04:29:32] [INFO] Initializing recipe event...
+[04:29:40] [INFO] [minecraft:entity_type] Found 242 tags, added 60 objects, removed 0 objects
+[04:29:40] [INFO] [minecraft:worldgen/biome] Found 862 tags, added 8 objects, removed 0 objects
+[04:29:40] [INFO] [minecraft:fluid] Found 559 tags, added 2 objects, removed 4 objects
+[04:29:42] [INFO] [minecraft:item] Found 8479 tags, added 205 objects, removed 7 objects
+[04:29:42] [INFO] [minecraft:block] Found 2817 tags, added 827 objects, removed 1 objects
