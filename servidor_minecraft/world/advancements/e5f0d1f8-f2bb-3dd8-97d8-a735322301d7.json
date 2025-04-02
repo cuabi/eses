@@ -22134,6 +22134,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-04-02 03:09:42 +0000"
@@ -22146,9 +22152,39 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/ancient_stone_slabs": {
+    "criteria": {
+      "has_TagKey[minecraft:block / allthemodium:ancient_stone]_block": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/unobtainium_mage_chestplate_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
     },
     "done": true
   },
@@ -22164,15 +22200,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/vibranium_spell_book_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/unobtainium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-04-02 03:09:42 +0000"
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/vibranium_mage_boots_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/vibranium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/diorite": {
     "criteria": {
       "has_the_recipe": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/unobtainium_spell_book_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
     },
     "done": true
   },
@@ -22194,15 +22272,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/vibranium_mage_leggings_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-04-02 03:09:42 +0000"
     },
     "done": true
   },
+  "allthemodium:recipes/misc/ancient_smooth_stone_from_ancient_stone_blasting": {
+    "criteria": {
+      "has_item": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/unobtainium_mage_leggings_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/end_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-02 03:19:55 +0000"
     },
     "done": true
   },
@@ -22254,6 +22362,54 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/vibranium_dust_from_ingot": {
+    "criteria": {
+      "has_vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/vibranium_mage_chestplate_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/unobtainium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/unobtainium_mage_helmet_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/vibranium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/ancient_stone_wall": {
+    "criteria": {
+      "has_TagKey[minecraft:block / allthemodium:ancient_stone]_block": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-04-02 03:09:42 +0000"
@@ -22263,6 +22419,36 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/ancient_smooth_stone_from_ancient_stone_smelting": {
+    "criteria": {
+      "has_item": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/ancient_stone_stairs": {
+    "criteria": {
+      "has_TagKey[minecraft:block / allthemodium:ancient_stone]_block": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/vibranium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/unobtainium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
     },
     "done": true
   },
@@ -22278,15 +22464,105 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/unobtainium_dust_from_ingot": {
+    "criteria": {
+      "has_unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/end_stone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/vibranium]_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/ancient_stone_bricks": {
+    "criteria": {
+      "has_TagKey[minecraft:block / allthemodium:ancient_stone]_block": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-04-02 03:09:42 +0000"
     },
     "done": true
   },
+  "allthemodium:recipes/misc/unobtainium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/ancient_mossy_stone_from_vinecrafting": {
+    "criteria": {
+      "has_item": "2025-04-02 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/vibranium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-02 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/unobtainium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/vibranium_mage_helmet_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/vibranium_ingot": "2025-04-02 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/ancient_stone_1x": {
+    "criteria": {
+      "has_ancient_stone": "2025-04-02 03:21:49 +0000"
     },
     "done": true
   },
@@ -22299,6 +22575,18 @@
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-04-02 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/unobtainium_mage_boots_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/unobtainium_ingot": "2025-04-02 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-02 03:18:48 +0000"
     },
     "done": true
   },
