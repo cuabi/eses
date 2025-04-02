@@ -7939,6 +7939,7 @@
       "minecraft:skeleton": "2025-03-09 00:23:25 +0000",
       "minecraft:spider": "2025-03-09 00:48:10 +0000",
       "minecraft:creeper": "2025-03-09 05:14:38 +0000",
+      "minecraft:phantom": "2025-03-30 02:04:29 +0000",
       "minecraft:cave_spider": "2025-03-09 05:10:23 +0000",
       "minecraft:enderman": "2025-03-09 00:21:08 +0000",
       "minecraft:silverfish": "2025-03-16 20:23:59 +0000",
@@ -20880,6 +20881,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-03-30 02:04:29 +0000",
       "warden": "2025-03-18 06:09:26 +0000"
     },
     "done": false
@@ -21739,6 +21741,396 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-03-19 18:52:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 01:38:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-03-30 01:56:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-03-30 01:56:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-03-30 02:04:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-03-30 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-03-30 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-30 02:31:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-30 02:32:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-30 02:32:54 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 02:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-30 02:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-30 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-03-30 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-30 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-30 02:34:45 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-03-30 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-03-30 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-30 02:39:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-03-30 02:39:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-03-30 02:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_chestplate_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_spell_book_smithing": {
+    "criteria": {
+      "allthewizardgearhas_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_leggings_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_hat_to_allthemodium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_boots_to_allthemodium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/allthemodium_dust_from_ingot": {
+    "criteria": {
+      "has_allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_legs_to_allthemodium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_helmet_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/allthemodium_mage_boots_smithing": {
+    "criteria": {
+      "allthewizardgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/elemental_chest_to_allthemodium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2025-03-30 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/deepslate_1x": {
+    "criteria": {
+      "has_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column": {
+    "criteria": {
+      "has_item": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-30 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/unobtainium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_dust_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 02:43:54 +0000"
     },
     "done": true
   },
